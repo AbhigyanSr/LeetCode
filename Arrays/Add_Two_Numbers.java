@@ -1,8 +1,5 @@
 package Arrays;
 
-import java.util.Arrays;
-import java.util.List;
-
 /*example: 2->3->4 and 5->3->7 should be treated as 432+735 and resulted LL should look like 9->6->9 */
 public class Add_Two_Numbers {
     public static class ListNode{
